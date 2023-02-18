@@ -16,16 +16,17 @@
 
 ## Creando las credenciales de AWS
 
-Previamente ingresamos a gitpod
+<p>Previamente ingresamos a gitpod</p>
 <image src="/images/gitpod.jpg" alt="Pantalla de gitpod">
 
-Para ello agregamos las siguientes claves en gitpod
-gp env AWS_ACCOUNT_ID="1231245"
-gp env AWS_ACCESS_KEY_ID="llavekey"
-gp env AWS_SECRET_ACCESS_KEY="llavesecreta"
-gp env AWS_DEFAULT_REGION="laregion" # e.g. us-east-1
-gp env AWS_ACCOUNT_EMAIL="tu correo" 
+<p>Para ello agregamos las siguientes claves en gitpod</p>
 
-Los comandos quedan registrados en el gitpod
+- [x] gp env AWS_ACCOUNT_ID="1231245"
+- [x] gp env AWS_ACCESS_KEY_ID="keyid"
+- [x] gp env AWS_SECRET_ACCESS_KEY="llavesecreta"
+- [x] gp env AWS_DEFAULT_REGION="laregion" # ex. us-east-1
+- [x] gp env AWS_ACCOUNT_EMAIL="tu correo" 
+
+Las variables de entorno quedan registradas en el gitpod
 <image src="/images/user-settings.jpg" alt="Comandos">
 
