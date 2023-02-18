@@ -64,5 +64,5 @@ https://lucid.app/lucidchart/29e41842-6705-455f-a34f-1ab2ab5e8d06/edit?viewport_
 
 ## Diseño Conceptual
 <p>El enlace se encuentra en la ruta:</p>
-
+https://lucid.app/lucidchart/65adedd0-f7c4-45f4-883e-2132453e5187/edit?invitationId=inv_c3ea949f-e4bb-4a78-be46-242ba93231bf
 <image src="/images/conceptual.jpeg" alt="Diseño Conceptual">
