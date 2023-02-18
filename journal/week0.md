@@ -34,7 +34,7 @@
 
 ## Instalar AWS CLI
 
-<p>Para instalar AWS CLI se usa el siguiente script dentro de .gitpod</p>
+<p>Para instalar AWS CLI se usa el siguiente script dentro de .gitpod.yml</p>
 
 ```yml
 tasks:
@@ -60,9 +60,9 @@ tasks:
 ## Diagrama Lógico
 <p>El enlace se encuentra en la ruta:</p>
 https://lucid.app/lucidchart/29e41842-6705-455f-a34f-1ab2ab5e8d06/edit?viewport_loc=-476%2C-233%2C2303%2C1146%2C0_0&invitationId=inv_e99b5908-f1af-41a5-a4b9-367f627f819b
-<image src="/images/logical.jpg" alt="Diagrama logico">
+<image src="/images/logical.jpeg" alt="Diagrama logico">
 
 ## Diseño Conceptual
 <p>El enlace se encuentra en la ruta:</p>
 
-<image src="/images/conceptual.jpg" alt="Diseño Conceptual">
+<image src="/images/conceptual.jpeg" alt="Diseño Conceptual">
