@@ -10,9 +10,10 @@
 
 ## Creando el usuario Admin
 <p>Para este caso utilizo mi nombre</p>
-![Usuario carlos](/images/user1.jpg)
+<image src="/images/user1.jpg" alt="Cuenta">
 <p>Adicional a ello se agregan los perfiles necesarios</p>
-![Usuario carlos](/images/user2.jpg)
+<image src="/images/user2.jpg" alt="Perfiles asociados">
+
 
 ## Creando
 
