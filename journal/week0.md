@@ -14,6 +14,5 @@
 <p>Adicional a ello se agregan los perfiles necesarios</p>
 <image src="/images/user2.jpg" alt="Perfiles asociados">
 
-
-## Creando
+## Generar las credenciales de AWS
 
