@@ -9,4 +9,8 @@
 - [x] Crear un Budget
 
 ## Creando el usuario Admin
-Para este caso utilizo mi nombre
+<p>Para este caso utilizo mi nombre</p>
+![Usuario carlos](../images/user1.jpg)
+<p>Adicional a ello se agregan los perfiles necesarios</p>
+![Usuario carlos](../images/user2.jpg)
+
