@@ -7,6 +7,8 @@
 - [x] Instalar AWS CLI
 - [x] Crear Billing Alarm
 - [x] Crear un Budget
+- [x] Diagrama Lógico
+- [x] Diseño Conceptual
 
 ## Creando el usuario Admin
 <p>Para este caso utilizo mi nombre</p>
@@ -34,6 +36,7 @@
 
 <p>Para instalar AWS CLI se usa el siguiente script dentro de .gitpod</p>
 
+<p>
 tasks:
   - name: aws-cli
     env:
@@ -44,6 +47,7 @@ tasks:
       unzip awscliv2.zip
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
+</p>
 
 ## Crear Billing Alarm
 <p>Creamos una Billing Alarm en la consola de AWS</p>
@@ -52,3 +56,13 @@ tasks:
 ## Crear Budget
 <p>Creamos un Budget en la consola de AWS</p>
 <image src="/images/budget.jpg" alt="Budget">
+
+## Diagrama Lógico
+<p>El enlace se encuentra en la ruta:</p>
+https://lucid.app/lucidchart/29e41842-6705-455f-a34f-1ab2ab5e8d06/edit?viewport_loc=-476%2C-233%2C2303%2C1146%2C0_0&invitationId=inv_e99b5908-f1af-41a5-a4b9-367f627f819b
+<image src="/images/logical.jpg" alt="Diagrama logico">
+
+## Diseño Conceptual
+<p>El enlace se encuentra en la ruta:</p>
+
+<image src="/images/conceptual.jpg" alt="Diseño Conceptual">
