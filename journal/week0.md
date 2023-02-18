@@ -36,7 +36,7 @@
 
 <p>Para instalar AWS CLI se usa el siguiente script dentro de .gitpod</p>
 
-<p>
+```yml
 tasks:
   - name: aws-cli
     env:
@@ -47,7 +47,7 @@ tasks:
       unzip awscliv2.zip
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
-</p>
+```
 
 ## Crear Billing Alarm
 <p>Creamos una Billing Alarm en la consola de AWS</p>
