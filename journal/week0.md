@@ -27,6 +27,28 @@
 - [x] gp env AWS_DEFAULT_REGION="laregion" # ex. us-east-1
 - [x] gp env AWS_ACCOUNT_EMAIL="tu correo" 
 
-Las variables de entorno quedan registradas en el gitpod
+<p>Las variables de entorno quedan registradas en el gitpod</p>
 <image src="/images/user-settings.jpg" alt="Comandos">
 
+## Instalar AWS CLI
+
+<p>Para instalar AWS CLI se usa el siguiente script dentro de .gitpod</p>
+
+tasks:
+  - name: aws-cli
+    env:
+      AWS_CLI_AUTO_PROMPT: on-partial
+    init: |
+      cd /workspace
+      curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      unzip awscliv2.zip
+      sudo ./aws/install
+      cd $THEIA_WORKSPACE_ROOT
+
+## Crear Billing Alarm
+<p>Creamos una Billing Alarm en la consola de AWS</p>
+<image src="/images/billing.jpg" alt="Billing">
+
+## Crear Budget
+<p>Creamos un Budget en la consola de AWS</p>
+<image src="/images/budget.jpg" alt="Budget">
