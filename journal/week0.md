@@ -18,20 +18,6 @@
 
 ## Creando las credenciales de AWS
 
-<<<<<<< HEAD
-Previamente ingresamos a gitpod
-<image src="/images/gitpod.jpg" alt="Pantalla de gitpod">
-
-Para ello agregamos las siguientes claves en gitpod
-gp env AWS_ACCOUNT_ID="1231245"
-gp env AWS_ACCESS_KEY_ID="llavekey"
-gp env AWS_SECRET_ACCESS_KEY="llavesecreta"
-gp env AWS_DEFAULT_REGION="laregion" # e.g. us-east-1
-gp env AWS_ACCOUNT_EMAIL="tu correo" 
-
-Los comandos quedan registrados en el gitpod
-<image src="/images/user-settings.jpg" alt="Comandos">
-=======
 <p>Previamente ingresamos a gitpod</p>
 <image src="/images/gitpod.jpg" alt="Pantalla de gitpod">
 
@@ -80,4 +66,3 @@ https://lucid.app/lucidchart/29e41842-6705-455f-a34f-1ab2ab5e8d06/edit?viewport_
 <p>El enlace se encuentra en la ruta:</p>
 https://lucid.app/lucidchart/65adedd0-f7c4-45f4-883e-2132453e5187/edit?invitationId=inv_c3ea949f-e4bb-4a78-be46-242ba93231bf
 <image src="/images/conceptual.jpeg" alt="Diseño Conceptual">
->>>>>>> ec628867e1bc3c66f814dbdd24e994e87a8a7282
