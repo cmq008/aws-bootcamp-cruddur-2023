@@ -53,7 +53,7 @@ Backend Dockerfile
 Frontend Dockerfile
 <image src="/images/dockerbuild2.jpg" alt="frontend">
 
-Docker image ls
+<p>Docker image ls</p>
 <image src="/images/dockerimagels.jpg" alt="List">
 
 - [x] Ensure we get the apps running via individual container
