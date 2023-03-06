@@ -148,6 +148,21 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/Message'
+  /api/activities/notifications:
+    get:
+      description: 'Retorna las notificaciones de las personas que sigo'
+      tags:
+        - activities
+      parameters: []
+      responses:
+        '200':
+          description: Retorna un array de actividades
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Activity'
 
 components:
   schemas:
